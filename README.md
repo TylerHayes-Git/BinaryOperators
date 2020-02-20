@@ -95,7 +95,7 @@ public class Multiplier extends BinaryOperator {
 
 ## Test Class
 
-> to call each class method
+>to call each class method
 
 ```Java
 public class Test {
@@ -123,7 +123,7 @@ public class Test {
 
 ## Main Class
 
-> to call the Test() method from the Test Class
+>to call the Test() method from the Test Class
 
 ```Java
 public class Assignment_4 {
@@ -141,11 +141,7 @@ public class Assignment_4 {
 ## Output
 
 >-1.0
-
 >72.0
-
 >17.0
-
 >0.8888888888888888
-
 >Can't divide by 0.0
